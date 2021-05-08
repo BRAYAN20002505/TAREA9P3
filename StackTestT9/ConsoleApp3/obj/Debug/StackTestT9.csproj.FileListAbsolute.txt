@@ -1,0 +1,7 @@
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\tarea9 progra 3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\tarea9 progra 3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\tarea9 progra 3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\tarea9 progra 3\ConsoleApp3\ConsoleApp3\obj\Debug\StackTestT9.csprojAssemblyReference.cache
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\tarea9 progra 3\ConsoleApp3\ConsoleApp3\obj\Debug\StackTestT9.csproj.CoreCompileInputs.cache
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\tarea9 progra 3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\tarea9 progra 3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
